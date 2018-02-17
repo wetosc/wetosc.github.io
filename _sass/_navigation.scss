@@ -12,7 +12,7 @@
     vertical-align: top;
     margin: 0 0 50px;
     padding: 4px 20px;
-    background-color: $black;
+    background-color: $space-cadet;
 
     @include media($medium) {
       width: auto;
@@ -54,7 +54,7 @@
     @include rounded(4px);
 
     &:hover {
-      background-color: lighten($black, 10);
+      background-color: lighten($space-cadet, 10);
     }
   }
 }
@@ -106,7 +106,7 @@
   vertical-align: top;
   margin: 0;
   padding: 6px 20px;
-  background-color: $black;
+  background-color: $space-cadet;
   height: 44px;
   @include rounded(0);
 
