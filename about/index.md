@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-excerpt: "About me and the sand whales"
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: "About me"
 ---
+> Young developer, interested in new technologies.
 
-> Hi, my name is Eugeniu Cernei, from Moldova.
+> Finishing my master's degree in Advanced Software Services at Politehnica University of Bucharest
 
-> I'm a developer, passionate about new trends in the IT field. 
-  
-> Also I'm a complete procrastinator and always sleepy.  
-  
-> Laziness is one of my strenghts (I wrote this one in my CV).  
+> Working at an Artificial Inteligence startup (AI-Memoria).
 
-> You must be truly desperate to come to me for help.
+> Tech stack i'm usually using:
+- For machine learning:
+    - python3, pandas, numpy, scikit-learn, tensorflow
+- For iOS:
+    - Swift, Alamofire, TinyConstraints, MagicalRecord
