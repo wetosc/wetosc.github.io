@@ -2,14 +2,12 @@
 layout: post
 title: Clean Naming
 excerpt: "Rules and ideas on how to name your variables and methods"
-modified: 2018-02-25T23:45:00+02:00
 categories: articles
 tags: [clean-code, uncle-bob, naming]
 image:
   feature: js-minified-code.jpeg
   credit: Markus Spiske
   creditlink: https://www.pexels.com/photo/full-frame-shot-of-multi-colored-pattern-330771/
-comments: true
 share: true
 ads: false
 ---
