@@ -5,9 +5,10 @@ excerpt: "A new way to structure iOS apps code"
 categories: articles
 tags: [iOS, swift, Clean Swift, MVVM, architecture]
 image:
+  path: /images/apartment-architecture-black-and-white.jpg
   feature: apartment-architecture-black-and-white.jpg
+  creditlink: "https://www.pexels.com/photo/grayscale-photo-of-concrete-building-157811/"
   credit: Yentl Jacobs
-  creditlink: https://www.pexels.com/photo/grayscale-photo-of-concrete-building-157811/
 share: true
 ads: false
 ---

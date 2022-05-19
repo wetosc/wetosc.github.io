@@ -5,7 +5,8 @@ search_omit: true
 ---
 
 <ul class="post-list">
-  {% for post in site.posts | concat site.articles limit:5 %}
+  {% assign items = site.articles | concat: site.posts %}
+  {% for post in items limit:5 %}
   <li>
     <article>
       <a href="{{ site.url }}{{ post.url }}">{{ post.title }}

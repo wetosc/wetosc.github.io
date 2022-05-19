@@ -5,6 +5,7 @@ excerpt: "Thoughts on VR game development"
 categories: blog
 tags: [VR, unity, game, air hockey]
 image:
+  path: /images/air-hockey.png
   feature: air-hockey.png
   credit: Eugeniu Cernei
 share: true

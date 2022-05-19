@@ -5,9 +5,10 @@ excerpt: "Rules and ideas on how to name your variables and methods"
 categories: articles
 tags: [clean-code, uncle-bob, naming]
 image:
+  path: /images/js-minified-code.jpeg
   feature: js-minified-code.jpeg
-  credit: Markus Spiske
   creditlink: https://www.pexels.com/photo/full-frame-shot-of-multi-colored-pattern-330771/
+  credit: Markus Spiske
 share: true
 ads: false
 ---
