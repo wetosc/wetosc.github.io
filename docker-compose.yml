@@ -1,0 +1,11 @@
+services:
+
+  build:
+    build: .
+    volumes:
+      - ./:/app
+      - ./vendor/bundle:/root/.bundle/
+      - ./vendor/gems_cache:/var/lib/gems/
+    ports:
+      - "4000:4000"
+    command: jekyll serve --host="0.0.0.0"
